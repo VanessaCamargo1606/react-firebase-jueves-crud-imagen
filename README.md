@@ -15,7 +15,7 @@ Imagina que estás construyendo una casa. Firebase te proporciona los ladrillos,
 
 ---
 
-## 🔧 ¿Qué puedes hacer con Firebase?
+##  ¿Qué puedes hacer con Firebase?
 
 - **Almacenar datos**: Crea bases de datos en tiempo real para que tu aplicación esté siempre actualizada.  
 - **Autenticar usuarios**: Gestiona el registro, el inicio de sesión y el control de acceso de forma segura.  
